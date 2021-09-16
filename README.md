@@ -1,3 +1,7 @@
+# Description
+
+This is an updated description.
+
 # JavaScript Starter
 
 [![JavaScript Language](https://img.shields.io/badge/language-JavaScript-F7DF1E.svg?logo=JavaScript)][1]
@@ -12,9 +16,9 @@ A kata starter project (skeleton) to practice test-driven development.
 This starter project uses [JavaScript][1], [Node.js][2] and [yarn][4] as a package manager.
 
 If you do not have Node.js and/or yarn installed locally, please follow these instructions:
+
 - [Node.js installation][5]
 - [yarn installation][6]
-
 
 ## Installation
 
@@ -26,10 +30,10 @@ To use this starter project:
 
 ![Create repository from template](./docs/create-from-template.png)
 
-
 ## Development
 
 Once your new repository created, clone it locally, and install its dependencies:
+
 - replace `${your-username}` with your GitHub username
 - replace `${repository-name}` with the repository name you created above
 
@@ -50,6 +54,7 @@ yarn install
 ### Next steps
 
 Once the setup completed:
+
 - update the description of your repository to match that of the kata
 - execute the following command to run tests
 
@@ -58,7 +63,6 @@ yarn test
 ```
 
 Enjoy working on your kata! :smile:
-
 
 [1]: https://www.javascript.com/
 [2]: https://nodejs.org/en/
